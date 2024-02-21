@@ -1,7 +1,7 @@
 #!/bin/bash
 echo -e
 
-# pull the docker image from the registry 
+# pull the docker image from the registry Docker hub
 docker pull kalyankumar21/simple-node-app:latest
 
 # run the container
